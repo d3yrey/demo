@@ -1,0 +1,6 @@
+# Config Repository
+
+This folder contains configuration files for all microservices.
+
+Config Server will read from this repository.
+
